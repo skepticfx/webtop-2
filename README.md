@@ -3,7 +3,7 @@ Run a full Linux desktop on the web (powered by [Cloudflare Containers](https://
 
 [🚀 Live Demo 🚀](https://webtop.conflare.workers.dev/)
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/megaconfidence/webtop)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/skepticfx/webtop-2)
 
 ## How it works
 Watch this tutorial to learn how Cloudflare Containers works:
